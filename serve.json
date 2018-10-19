@@ -1,13 +1,4 @@
-{
-  "headers": [
-    {
-      "source": "**/*",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "no-cache"
-        }
-      ]
-    }
-  ]
-}
+function setup() {
+  createCanvas(400, 400)
+  background(200)
+}jdgkqw
